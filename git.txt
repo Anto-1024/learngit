@@ -3,4 +3,5 @@ Git is free software.ssf
 I am learning Git.
 another sentence.sentence.sentece.
 dddddd
-creating a new branch is quick & simple.
+creating a new branch is quick and simple.
+
